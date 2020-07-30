@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.Team img{
+    height: 200px;
+    width: 200px;
+}
+
+.versus h1{
+    font-family: 'Sarina', cursive;
+    color: black;
+}
+
